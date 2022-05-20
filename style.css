@@ -1,0 +1,21 @@
+section {
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+p {
+  text-transform: uppercase;
+  color: red;
+  font-weight: bold;
+}
+
+button {
+  background-color: plum;
+  border: 2px solid red;
+  border-radius: 4px;
+  padding: 10px 30px;
+  margin: 6px;
+}
