@@ -6,6 +6,10 @@ section {
   flex-direction: column;
 }
 
+h2 {
+  margin-right: 20px;
+}
+
 p {
   text-transform: uppercase;
   color: red;
